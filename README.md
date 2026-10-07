@@ -1,7 +1,7 @@
 # termtoys 🖥️✨
 
 **EN | 6 tiny terminal toys in one Python file — Matrix rain, fire, starfield, Game of Life, marquee, DVD bounce.**
-**TR | Tek Python dosyasında 6 minik terminal oyuncağı — Matrix yağmuru, ateş, yıldız alanı, Yaşam Oyunu, kayan yazı, DVD sekmesi.**
+**TR | TerminalOyuncakları — Tek Python dosyasında 6 minik terminal oyuncağı — Matrix yağmuru, ateş, yıldız alanı, Yaşam Oyunu, kayan yazı, DVD sekmesi.**
 
 Zero dependencies. Zero installs beyond Python itself. Just vibes / kurulum derdi yok, sadece keyif:
 
